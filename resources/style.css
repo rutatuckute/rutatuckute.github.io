@@ -7,5 +7,49 @@ h1 {
     text-align: center;
     font-family: "Verdana";
     font-weight: normal;
-    font-size: 50px;
+    font-size: 50px
+}
+
+p {
+    color: aquamarine;
+    text-align: center;
+    font-family: "Verdana";
+    font-weight: normal;
+    font-size: 16px
+}
+
+a {
+    color:aquamarine;
+  }
+
+video {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: "Verdana";
+    font-weight: 300;
+    font-size: 42px
+}
+
+#text {
+    color: gray;
+    text-align: center;
+    font-family: "Verdana";
+    font-size: 21px
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-family: "Verdana";
+    font-size: 22px
 }
